@@ -3,7 +3,7 @@
 不同程度的社交焦慮玩家是否在遊玩後的同理心改變程度是否相關
 # 調查心理資料
 ## 測驗方向
-### 1. [SPIN（Social Phobia Inventory）]((SPIN)[https://psychology-tools.com/test/spin])作為前測：
+### 1. [SPIN（Social Phobia Inventory）](https://psychology-tools.com/test/spin)作為前測：
 目的：判斷玩家本身是否有社交焦慮傾向。
 
 用途：
@@ -15,7 +15,7 @@
 🔍 簡報建議用語：
 「我們在遊戲前以 SPIN 評估玩家的社交焦慮傾向，作為基礎分群依據，以觀察玩家特質是否影響對議題的共鳴。」
 
-### 2. TEQ（Toronto Empathy Questionnaire）前後測改編版：
+### 2. [TEQ（Toronto Empathy Questionnaire）](https://psychology-tools.com/test/toronto-empathy-questionnaire)前後測改編版：
 目的：評估玩家對「社交焦慮者處境」的共鳴程度是否因遊戲體驗而提高。
 
 做法：
