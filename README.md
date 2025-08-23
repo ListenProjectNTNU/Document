@@ -8,7 +8,13 @@ Here is documents of our project
 
 ### 美術設計文件
 + [武器](https://github.com/ListenProjectNTNU/Art/issues/4)
-  
+
+:calendar:劇本
+---
++ [劇本](https://github.com/ListenProjectNTNU/Document/issues/9)
++ [對話](https://github.com/ListenProjectNTNU/Document/issues/12)
+
 :calendar:討論紀錄
 ---
 + [第一版DEMO時期2024/12/23~](https://github.com/ListenProjectNTNU/Document/issues/3)
+
